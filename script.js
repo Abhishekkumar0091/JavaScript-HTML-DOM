@@ -2,11 +2,16 @@
 // there are four way to select query in js
 // 1. By using Id Selecter
 
-// document.getElementById(abcd);
-// console.dir(abcd);
+document.getElementById(abcd);
+console.dir(abcd);
 
 // 2. By using class Selecter
-// let xyz=document.getElementsByClassName("xyz");
+let xyz=document.getElementsByClassName("xyz");
 
 // 3. By using querySelector
+let xya=document.querySelector("xyz");
+
+// 3. By using querySelectorAll
+let xya=document.querySelector("xyz");
+
 
