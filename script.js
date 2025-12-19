@@ -1,5 +1,6 @@
 // how to select query in js
 // there are four way to select query in js
+
 // 1. By using Id Selecter
 
 document.getElementById(abcd);
@@ -13,5 +14,6 @@ let xya=document.querySelector("xyz");
 
 // 3. By using querySelectorAll
 let xya=document.querySelector("xyz");
+
 
 
